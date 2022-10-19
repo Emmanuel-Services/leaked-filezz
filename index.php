@@ -212,27 +212,8 @@
      </div>
      
    <!-- All Modal Ends -->
-    <footer>
-      <div class="footer-body">
-         <div>
-             <img src="images/logo.png"style="width:100px; length:100px; border-radius:6px;" alt="" >
-             <p style="font-family: Handlee;">Leaked Files</p>
-         </div>
-         <div>
-            <p>Leaked Files Uploads Hacked or Cracked Files That are Gotten Online, All Items Uploaded Aren't Owned By Us. If you Have a File Uploaded Here and You Want to Take it Down Simply Contact The Admin At The Contact Page</p>
-            <ul>
-               <li><a href="pages/aboutus.html"> About </a></li>
-               <li><a href="pages/howtouse.html"> How to Use </a></li>
-               <li><a href="pages/sociallinks.html"> Terms & Conditions </a></li>
-               <li><a href="#"> Privacy Policy </a></li>
-            </ul>
-         </div>
-      </div>
-      <div class="footer-copyright">
-         © Copyright goes here. 
-      </div>
-   </footer>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+   <?php include 'footer.php'; ?>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
    <script type="text/JavaScript">

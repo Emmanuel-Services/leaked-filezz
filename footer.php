@@ -5,7 +5,7 @@
       <div class="footer-body">
          <div>
              <img src="images/logo.png"style="width:100px; length:100px; border-radius:6px;" alt="" >
-             <p style="font-family: Montserrat;">Leaked Files</p>
+             <p style="font-family: handlee;">Leaked Files</p>
          </div>
          <div>
             <p>Leaked Files Uploads Hacked or Cracked Files That are Gotten Online, All Items Uploaded Aren't Owned By Us. If you Have a File Uploaded Here and You Want to Take it Down Simply Contact The Admin At The Contact Page</p>

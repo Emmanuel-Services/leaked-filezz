@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
+<html>
 <head>
     <meta property="og:image" itemprop="image" content="./images/logo.png" />
     <meta charset="UTF-8">
@@ -235,4 +235,4 @@
   </script>
 </body>
 
-</html>
+?>

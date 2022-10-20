@@ -8,9 +8,9 @@ function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
 }
 
-var codes = 72637;
-var ebook= 55668;
-var courses = 77610;
+var codes = 72627;
+var ebook= 55667;
+var courses = 77617;
 function confirm() {
     var a = document.getElementsByName("code")[0].value;
     if(a == codes ) {
